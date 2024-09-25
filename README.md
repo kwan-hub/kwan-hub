@@ -7,7 +7,7 @@
 
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kwan-hub&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Leykwan132&theme=monokai"  display=block height="150"  alt="1" >
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kwan-hub&theme=monokai"  display=block height="150"  alt="1" >
 </div>
 
 ###
